@@ -72,3 +72,5 @@ DataSpark is a project focused on harnessing global electronics market data to p
 -> Customer Feedback: Analyze customer reviews for insights on product performance and areas for improvement.   
 
 ## Contact:   
+LinkedIn : https://www.linkedin.com/in/suruthi-boopalan/   
+Email : suruthipriya50@gmail.com  
